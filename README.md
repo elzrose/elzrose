@@ -13,7 +13,7 @@ Frontend Developer focused on building clean and functional web applications.
 - Git & GitHub
 
 ## Projects
-- Kaiyoppu — Digital identity and trust platform  
+- Kaiyoppu — Hiring platform for connecting job seekers and recruiters  
 - Explaina — AI-based explanation tool *(in progress)*  
 - Cuneiform — Community complaint platform  
 
