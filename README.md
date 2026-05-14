@@ -1,19 +1,19 @@
 # Elza
 
-Frontend Developer focused on building clean and functional web applications.
+Frontend Developer passionate about building clean and functional web applications.
 
 ## About
-- Currently learning React
-- Interested in UI/UX and modern web development
+- Currently learning backend development with Django
+- Interested in UI/UX and modern web technologies
 - Building projects to improve consistency and problem-solving
 
 ## Tech
-- HTML, CSS, JavaScript
-- React (in progress)
+- HTML, CSS, JavaScript, C, Java, Python
+- React, Django *(in progress)*
 - Git & GitHub
 
 ## Projects
-- Kaiyoppu — Hiring platform for connecting job seekers and recruiters  
+- Kaiyoppu — Hiring platform connecting job seekers and recruiters  
 - Explaina — AI-based explanation tool *(in progress)*  
 - Cuneiform — Community complaint platform  
 
