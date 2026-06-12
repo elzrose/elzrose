@@ -1,8 +1,6 @@
 # Hi, I'm Elza 👋
 
-Frontend Developer passionate about building clean, user-focused web applications and turning ideas into real products.
-
-Currently exploring backend development with Django and Frappe while experimenting with AI-powered applications, modern web technologies, and scalable software solutions.
+Full Stack Web Developer passionate about building clean, user-focused web applications and turning ideas into real-world products.
 
 ## 🚀 Tech Stack
 
@@ -11,31 +9,42 @@ Currently exploring backend development with Django and Frappe while experimenti
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frappe-Framework-005AAA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frappe-Framework-005AAA?style=for-the-badge&logo=frappe&logoColor=white" />
 </p>
+
+**Also working with:** Frappe Framework, REST APIs, and AI integrations
+
+---
 
 ## 📌 Featured Projects
 
-### 🚀 Kaiyoppu
+### Kaiyoppu
 A secure hiring platform that enables trusted interactions between workers and hirers through QR-based identity verification.
 
-### 🤖 Explaina
+### Explaina
 An AI-powered explanation platform designed to simplify complex concepts and improve learning experiences. *(In Progress)*
 
-### 🏘️ Cuneiform
+### Cuneiform
 A community complaint management platform aimed at improving communication between citizens and local authorities.
+
+---
 
 ## 🌱 Currently Exploring
 
-- 🤖 Artificial Intelligence & Agentic AI
-- ⚙️ Frappe Framework & Django
-- ⚛️ Modern React Applications
-- 🎨 UI/UX Design
-- 🚀 Building Production-Ready Software
+-  Artificial Intelligence & Agentic AI systems  
+-  Frappe Framework & Django backend development  
+-  Modern full stack React applications  
+-  REST APIs & system design fundamentals  
+-  UI/UX design principles  
+-  Building production-ready scalable software  
+
+---
 
 ## 🎨 Beyond Coding
 
-I enjoy designing interfaces, creating digital artwork, and combining creativity with technology to build meaningful user experiences.
+I enjoy designing interfaces, creating digital artwork, and blending creativity with technology to build meaningful user experiences.
+
+---
 
 ## 📫 Connect With Me
 
