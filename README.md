@@ -1,47 +1,56 @@
-# Hi, I'm Elza
+# Hi, I'm Elza 👋
 
-Full Stack Developer with a growing focus on AI systems, Agentic AI, and intelligent applications.
+Full Stack Developer exploring AI, Agentic AI, and intelligent applications.
 
-I'm interested in building software that combines modern web technologies with AI to solve real-world problems. Currently exploring LLMs, LangGraph, RAG, and backend development while participating in hackathons and building personal projects.
+I enjoy building software that combines modern web technologies with AI to solve real-world problems.
 
-## Tech
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,cpp,django,firebase,git,github,vscode,docker,linux,postgres" />
 </p>
 
-**Also working with:** Frappe Framework • LangGraph • LangChain • Gemini API • REST APIs • Git
+<p align="center">
+  <img src="https://img.shields.io/badge/Frappe-005AAA?style=for-the-badge&logo=frappe&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-6C47FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</p>
 
 ---
 
-## Projects
+## 🚀 Featured Projects
 
 ### Kaiyoppu
-A hiring platform that enables trusted worker verification through QR-based identity.
-
-### Explaina
-An AI-powered platform that simplifies complex topics using LLMs.
+A secure hiring platform that enables trusted worker verification through QR-based identity and digital trust.
 
 ### Cuneiform
-A complaint management platform with AI-assisted prioritization and summarization.
+An AI-assisted complaint management platform that prioritizes and summarizes citizen reports.
 
-### Adaptive Communication Engine *(Hack 26)*
-An AI-powered communication system that bridges sign language and spoken language in real time.
-
----
-
-## Currently Exploring
-
-- Agentic AI
-- LangGraph
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- AI Agents & LLM Workflows
-- Django & Frappe
-- System Design
+### Adaptive Communication Engine
+A real-time communication system that bridges sign language and spoken language using AI-powered gesture recognition and speech technologies.
 
 ---
 
-## Connect
+## 📈 GitHub Stats
 
-- LinkedIn: https://www.linkedin.com/in/elzarose1607
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/elzarose1607">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
