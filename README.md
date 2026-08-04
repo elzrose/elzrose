@@ -1,8 +1,8 @@
 # Hi, I'm Elza 👋
 
-Full Stack Developer exploring **AI, Agentic AI, and intelligent applications**.
+Full Stack Developer exploring **AI, Agentic AI, and Intelligent Applications**.
 
-I'm passionate about building software that combines modern web technologies with AI to solve real-world problems. Currently exploring LLMs, LangGraph, LangChain, RAG, and backend development.
+I'm passionate about building software that combines modern web technologies with AI to solve real-world problems. Currently exploring LLMs, LangGraph, LangChain, RAG, and scalable backend development.
 
 ---
 
@@ -13,10 +13,10 @@ I'm passionate about building software that combines modern web technologies wit
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frappe-005AAA?style=for-the-badge&logo=frappe&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-6E56CF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frappe-005AAA?style=for-the-badge&logo=frappe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-6E56CF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@ A real-time communication system that bridges sign language and spoken language 
 - LangGraph
 - LangChain
 - Retrieval-Augmented Generation (RAG)
-- AI Agents & LLM Workflows
+- AI Agents
 - Django
 - Frappe Framework
 - System Design
@@ -60,28 +60,12 @@ A real-time communication system that bridges sign language and spoken language 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=elzrose&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=elzrose&theme=tokyonight&hide_border=true"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elzrose&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://streak-stats.demolab.com?user=elzrose&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzrose&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elzrose&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzrose&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -89,7 +73,7 @@ A real-time communication system that bridges sign language and spoken language 
 ## 🌐 Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/elzarose1607/">
+  <a href="https://www.linkedin.com/in/elzarose1607/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
