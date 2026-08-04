@@ -9,14 +9,14 @@ I'm passionate about building software that combines modern web technologies wit
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,cpp,django,firebase,git,github,vscode,docker,linux,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,c,cpp,django,firebase,git,github,vscode,docker,linux,postgres,tensorflow" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frappe-005AAA?style=for-the-badge&logo=frappe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-6E56CF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frappe-005AAA?style=for-the-badge&logo=frappe&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ---
@@ -26,19 +26,19 @@ I'm passionate about building software that combines modern web technologies wit
 ### 🔐 Kaiyoppu
 A secure hiring platform that enables trusted interactions between workers and hirers through QR-based identity verification.
 
-**Tech:** React • Firebase • AI Integration
+**Tech:** React • Firebase • AI
 
 ---
 
 ### 📄 Cuneiform
-An AI-assisted complaint management platform that prioritizes and summarizes citizen reports for faster resolution.
+An AI-assisted complaint management platform that prioritizes and summarizes citizen complaints for faster resolution.
 
 **Tech:** HTML • CSS • JavaScript • Supabase • Gemini AI
 
 ---
 
 ### 🤟 Adaptive Communication Engine
-A real-time communication system that bridges sign language and spoken language using AI-powered gesture recognition, speech-to-text, and text-to-speech.
+A real-time communication system that bridges sign language and spoken language using gesture recognition, speech-to-text, text-to-speech, and AI.
 
 **Tech:** Python • MediaPipe • OpenCV • TensorFlow • Gemini AI
 
@@ -51,7 +51,8 @@ A real-time communication system that bridges sign language and spoken language 
 - LangChain
 - Retrieval-Augmented Generation (RAG)
 - AI Agents & LLM Workflows
-- Django & Frappe Framework
+- Django
+- Frappe Framework
 - System Design
 
 ---
@@ -59,12 +60,28 @@ A real-time communication system that bridges sign language and spoken language 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elzrose&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=elzroseE&theme=tokyonight&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=elzrose&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=elzrose&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzrose&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elzrose&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -72,7 +89,7 @@ A real-time communication system that bridges sign language and spoken language 
 ## 🌐 Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/elzarose1607/" target="_blank">
+  <a href="https://www.linkedin.com/in/elzarose1607/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
