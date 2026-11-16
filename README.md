@@ -7,7 +7,7 @@
 
   <img
     src="./spidey-floating.gif"
-    width="230"
+    width="300"
     alt="Spider-Man floating on his web"
   />
 
