@@ -1,32 +1,63 @@
 
+<!-- ================================================= -->
+<!--              ELZA | SPIDER-MAN README              -->
+<!-- ================================================= -->
+
 <div align="center">
 
-  <img src="./spidey-floating.gif" width="260" alt="Spider-Man floating on his web"/>
+  <img
+    src="./spidey-floating.gif"
+    width="260"
+    alt="Spider-Man floating on his web"
+  />
 
   <br/><br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=4500&pause=1000&color=EF3038&center=true&vCenter=true&width=950&height=65&lines=HI%2C+I'M+YOUR+FRIENDLY+NEIGHBOURHOOD+DEVELOPER!" alt="Hi, I'm your friendly neighbourhood developer"/>
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=4500&pause=1200&color=EF3038&center=true&vCenter=true&width=1000&height=65&lines=HI%2C+I'M+YOUR+FRIENDLY+NEIGHBOURHOOD+DEVELOPER!"
+    alt="Hi, I'm your friendly neighbourhood developer"
+  />
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/BUILDING-COOL%20THINGS-EF3038?style=for-the-badge&labelColor=101820"/>
-  <img src="https://img.shields.io/badge/POWERED%20BY-CREATIVITY-1677D2?style=for-the-badge&labelColor=101820"/>
+  <img
+    src="https://img.shields.io/badge/BUILDING-COOL%20THINGS-EF3038?style=for-the-badge&labelColor=26090D"
+  />
+  <img
+    src="https://img.shields.io/badge/POWERED%20BY-CREATIVITY-1677D2?style=for-the-badge&labelColor=101820"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:4A080D,50:9E1725,100:EF3038&height=8"
+    width="100%"
+    alt="Crimson divider"
+  />
 
 </div>
 
----
+<br/>
 
 I'm **Elza**, an undergraduate student at **IIIT Kottayam**, pursuing Computer Science and Engineering.
 
 I'm passionate about developing creative projects that solve real-world problems and make people's lives easier. I enjoy exploring the intersection of technology, design and artificial intelligence.
 
-Currently exploring **Computer Vision, Machine Learning and Natural Language Processing**.
+Currently exploring **Computer Vision, Machine Learning and Natural Language Processing**, while continuing to build my skills in full-stack development.
 
-Outside coding, I love designing, stitching and watching football.
+Outside coding, I love designing, stitching, experimenting with creative ideas and watching football.
 
----
+<br/>
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:EF3038,50:70121B,100:1677D2&height=5"
+  width="85%"
+  alt="Red and blue divider"
+/>
+
+</div>
 
 ## TECH STACK
 
@@ -51,15 +82,12 @@ Outside coding, I love designing, stitching and watching football.
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/FAISS-1677D2?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -67,17 +95,27 @@ Outside coding, I love designing, stitching and watching football.
 
 </div>
 
----
+<br/>
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:EF3038,50:70121B,100:1677D2&height=5"
+  width="85%"
+  alt="Red and blue divider"
+/>
+
+</div>
 
 ## PROJECTS
 
 ### KAIYOPPU
 
+<text></text>
+
 **Trust Every Hire**
 
-A platform connecting informal workers and hirers through verified worker identities, QR-based identification and a trust-focused hiring system. It includes separate Worker, Hirer and Admin roles, government verification workflows, selfie verification and a cryptographic photo-lock concept.
-
-[VIEW REPOSITORY](PASTE_KAIYOPPU_REPOSITORY_URL)
+A platform connecting informal workers and hirers through verified worker identities and a trust-focused hiring system. Kaiyoppu includes separate Worker, Hirer and Admin roles, government verification workflows, QR-based worker identification, selfie verification and a cryptographic photo-lock concept.
 
 **Tech:** React · Vite · Firebase · JavaScript
 
@@ -87,56 +125,109 @@ A platform connecting informal workers and hirers through verified worker identi
 
 **A Universal Complaint Management System**
 
-A real-time complaint management platform developed during Code Kalari, a 24-hour national-level hackathon at IIIT Kottayam. It helps students report institutional issues and enables administrators to prioritize them through AI-powered urgency and sentiment analysis, community voting, anonymous reporting and evidence attachments.
+Developed by Team ARNE DEV during Code Kalari, a national-level 24-hour hackathon organized by IIIT Kottayam.
 
-[VIEW REPOSITORY](https://github.com/NavaneethNem/Cuneiform) · [LIVE DEMO](https://arnedev-cuneiform.netlify.app/)
+Cuneiform bridges the gap between students and administration through a transparent, real-time complaint management platform. It uses AI-powered urgency and sentiment analysis to help prioritize institutional complaints, alongside community voting, anonymous reporting, evidence attachments and private complaint handling.
 
-**Tech:** HTML · CSS · JavaScript · Custom DataService
+**Live Demo:** [arnedev-cuneiform.netlify.app](https://arnedev-cuneiform.netlify.app/)
+
+**Tech:** HTML5 · CSS3 · Vanilla JavaScript · Custom DataService
 
 ---
 
 ### VOXSCRIBE
 
-**AI-Powered Speech-to-Text Application**
+**AI-Powered Speech-to-Text Engine**
 
-A full-stack speech-to-text application that converts uploaded audio files and live microphone recordings into text using the Deepgram Nova-2 AI engine. It includes user authentication, audio uploads, transcription history and cloud-synchronized transcript storage.
+A full-stack speech-to-text application that converts uploaded audio files and live microphone recordings into text using the Deepgram Nova-2 AI engine. VoxScribe features browser-based audio recording, audio uploads, user authentication and a cloud-synchronized transcript vault for securely storing and retrieving previous transcriptions.
 
-[VIEW REPOSITORY](PASTE_VOXSCRIBE_REPOSITORY_URL)
+**Tech:** React · Vite · Tailwind CSS · Node.js · Express.js · MongoDB Atlas · Mongoose · Supabase Auth
 
-**Tech:** React · Vite · Tailwind CSS · Node.js · Express.js · MongoDB · Mongoose · Deepgram · Supabase
+<br/>
 
----
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:EF3038,50:70121B,100:1677D2&height=5"
+  width="85%"
+  alt="Red and blue divider"
+/>
+
+</div>
 
 ## GITHUB STATS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=elzrose&show_icons=true&hide_border=true&bg_color=101820&title_color=EF3038&icon_color=1677D2&text_color=FFFFFF"/>
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=elzrose&show_icons=true&hide_border=true&bg_color=18090D&title_color=EF3038&icon_color=1677D2&text_color=FFFFFF"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzrose&layout=compact&hide_border=true&bg_color=101820&title_color=EF3038&text_color=FFFFFF"/>
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=elzrose&layout=compact&hide_border=true&bg_color=18090D&title_color=EF3038&text_color=FFFFFF"
+/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=elzrose&hide_border=true&background=101820&ring=EF3038&fire=EF3038&currStreakLabel=1677D2&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"/>
+<img
+  src="https://streak-stats.demolab.com?user=elzrose&hide_border=true&background=18090D&ring=EF3038&fire=EF3038&currStreakLabel=1677D2&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA"
+/>
 
 </div>
 
----
+<br/>
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:EF3038,50:70121B,100:1677D2&height=5"
+  width="85%"
+  alt="Red and blue divider"
+/>
+
+</div>
 
 ## CONNECT
 
 <div align="center">
 
 <a href="https://github.com/elzrose">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/elzarose1607/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<code>WITH GREAT CODE COMES GREAT RESPONSIBILITY.</code>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=4000&pause=1200&color=EF3038&center=true&vCenter=true&width=900&height=55&lines=WITH+GREAT+CODE+COMES+GREAT+RESPONSIBILITY."
+  alt="With great code comes great responsibility"
+/>
+
+<br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3500&pause=1200&color=EF3038&center=true&vCenter=true&width=700&height=55&lines=THANKS+FOR+SWINGING+BY!"
+  alt="Thanks for swinging by"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/SEE%20YOU%20ON%20THE%20NEXT%20SWING-EF3038?style=for-the-badge&labelColor=26090D"
+  alt="See you on the next swing"
+/>
+
+<br/><br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:1677D2,50:70121B,100:EF3038&height=8&section=footer"
+  width="100%"
+  alt="Spider-Man red and blue footer"
+/>
 
 </div>
