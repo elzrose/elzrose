@@ -1,43 +1,35 @@
 
-<!-- ================================================= -->
-<!--              ELZA | SPIDER-MAN README              -->
-<!-- ================================================= -->
+<!-- ========================================= -->
+<!--       ELZA | SPIDER-MAN GITHUB README     -->
+<!-- ========================================= -->
 
 <div align="center">
 
   <img
     src="./spidey-floating.gif"
-    width="260"
+    width="230"
     alt="Spider-Man floating on his web"
   />
 
-  <br/><br/>
+  <br/>
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=4500&pause=1200&color=EF3038&center=true&vCenter=true&width=1000&height=65&lines=HI%2C+I'M+YOUR+FRIENDLY+NEIGHBOURHOOD+DEVELOPER!"
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=4500&pause=1200&color=EF3038&center=true&vCenter=true&width=1000&height=55&lines=HI%2C+I'M+YOUR+FRIENDLY+NEIGHBOURHOOD+DEVELOPER!"
     alt="Hi, I'm your friendly neighbourhood developer"
   />
 
   <br/><br/>
 
-  <img
-    src="https://img.shields.io/badge/BUILDING-COOL%20THINGS-EF3038?style=for-the-badge&labelColor=26090D"
-  />
-  <img
-    src="https://img.shields.io/badge/POWERED%20BY-CREATIVITY-1677D2?style=for-the-badge&labelColor=101820"
-  />
-
-  <br/><br/>
-
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:4A080D,50:9E1725,100:EF3038&height=8"
-    width="100%"
-    alt="Crimson divider"
-  />
+  <img src="https://img.shields.io/badge/BUILDING-COOL%20THINGS-EF3038?style=for-the-badge&labelColor=26090D"/>
+  <img src="https://img.shields.io/badge/POWERED%20BY-CREATIVITY-1677D2?style=for-the-badge&labelColor=101820"/>
 
 </div>
 
 <br/>
+
+---
+
+## ABOUT ME
 
 I'm **Elza**, an undergraduate student at **IIIT Kottayam**, pursuing Computer Science and Engineering.
 
@@ -47,17 +39,7 @@ Currently exploring **Computer Vision, Machine Learning and Natural Language Pro
 
 Outside coding, I love designing, stitching, experimenting with creative ideas and watching football.
 
-<br/>
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:EF3038,50:70121B,100:1677D2&height=5"
-  width="85%"
-  alt="Red and blue divider"
-/>
-
-</div>
+---
 
 ## TECH STACK
 
@@ -70,22 +52,26 @@ Outside coding, I love designing, stitching, experimenting with creative ideas a
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/FAISS-1677D2?style=for-the-badge&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -95,23 +81,11 @@ Outside coding, I love designing, stitching, experimenting with creative ideas a
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:EF3038,50:70121B,100:1677D2&height=5"
-  width="85%"
-  alt="Red and blue divider"
-/>
-
-</div>
+---
 
 ## PROJECTS
 
 ### KAIYOPPU
-
-<text></text>
 
 **Trust Every Hire**
 
@@ -129,7 +103,7 @@ Developed by Team ARNE DEV during Code Kalari, a national-level 24-hour hackatho
 
 Cuneiform bridges the gap between students and administration through a transparent, real-time complaint management platform. It uses AI-powered urgency and sentiment analysis to help prioritize institutional complaints, alongside community voting, anonymous reporting, evidence attachments and private complaint handling.
 
-**Live Demo:** [arnedev-cuneiform.netlify.app](https://arnedev-cuneiform.netlify.app/)
+**Live Demo:** [Cuneiform](https://arnedev-cuneiform.netlify.app/)
 
 **Tech:** HTML5 · CSS3 · Vanilla JavaScript · Custom DataService
 
@@ -143,17 +117,7 @@ A full-stack speech-to-text application that converts uploaded audio files and l
 
 **Tech:** React · Vite · Tailwind CSS · Node.js · Express.js · MongoDB Atlas · Mongoose · Supabase Auth
 
-<br/>
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:EF3038,50:70121B,100:1677D2&height=5"
-  width="85%"
-  alt="Red and blue divider"
-/>
-
-</div>
+---
 
 ## GITHUB STATS
 
@@ -177,17 +141,7 @@ A full-stack speech-to-text application that converts uploaded audio files and l
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:EF3038,50:70121B,100:1677D2&height=5"
-  width="85%"
-  alt="Red and blue divider"
-/>
-
-</div>
+---
 
 ## CONNECT
 
@@ -204,30 +158,8 @@ A full-stack speech-to-text application that converts uploaded audio files and l
 <br/><br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=4000&pause=1200&color=EF3038&center=true&vCenter=true&width=900&height=55&lines=WITH+GREAT+CODE+COMES+GREAT+RESPONSIBILITY."
-  alt="With great code comes great responsibility"
-/>
-
-<br/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3500&pause=1200&color=EF3038&center=true&vCenter=true&width=700&height=55&lines=THANKS+FOR+SWINGING+BY!"
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=4000&pause=1200&color=EF3038&center=true&vCenter=true&width=750&height=65&lines=THANKS+FOR+SWINGING+BY!"
   alt="Thanks for swinging by"
-/>
-
-<br/><br/>
-
-<img
-  src="https://img.shields.io/badge/SEE%20YOU%20ON%20THE%20NEXT%20SWING-EF3038?style=for-the-badge&labelColor=26090D"
-  alt="See you on the next swing"
-/>
-
-<br/><br/>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&color=0:1677D2,50:70121B,100:EF3038&height=8&section=footer"
-  width="100%"
-  alt="Spider-Man red and blue footer"
 />
 
 </div>
