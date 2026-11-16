@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img src="./assets/spidey-floating.gif" width="280" alt="Spider-Man floating on his web"/>
+  <img src=".spidey-floating.gif" width="280" alt="Spider-Man floating on his web"/>
 
   <br/>
 
