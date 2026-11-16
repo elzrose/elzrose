@@ -7,11 +7,9 @@
 
   <img
     src="./spidey-floating.gif"
-    width="300"
+    width="230"
     alt="Spider-Man floating on his web"
   />
-
-  <br/>
 
   <img
     src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=4500&pause=1200&color=EF3038&center=true&vCenter=true&width=1000&height=55&lines=HI%2C+I'M+YOUR+FRIENDLY+NEIGHBOURHOOD+DEVELOPER!"
